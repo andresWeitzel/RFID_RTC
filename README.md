@@ -1,2 +1,2 @@
-# RFID_RTC
-Se realiza la lectura de una tarjeta o dispositivo con tecnologia rfid y se utiliza un modulo rtc para el tiempo
+# Modulo de Lectura/Escritura RFID
+Se realiza la lectura/escritura de diferentes dispositiivos, entre ellos, arduino y ESP8266, mediante un modulo RFID.
